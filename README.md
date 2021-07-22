@@ -1,6 +1,6 @@
 # 🌡️ Thermy!
 
-### 🌟 Goals 
+### 🌟 Goals 🌟
 
 Gain hands-on experience with Alexa (Voice), Serverless, REST, and Flask.
 
